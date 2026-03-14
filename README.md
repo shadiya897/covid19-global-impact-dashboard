@@ -48,9 +48,7 @@ Users can filter the dashboard by:
 
 Global COVID-19 dataset containing cases, deaths, tests, GDP per capita, and hospital bed statistics.
 
-## Dashboard Preview
 
-![Dashboard Preview](Image 2026-03-14 at 12.32.39 PM.jpeg)
 
 ## Author
 
